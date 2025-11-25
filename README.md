@@ -3,6 +3,15 @@
 Este módulo contém **100 modelos completos de README**, perfeitos para perfis e projetos no GitHub.  
 Cada modelo é personalizável e inclui múltiplas linguagens.
 
+## 📁 Estrutura
+readmes/
+└── readme_001/
+├── index.html
+├── style.css
+├── script.js
+├── example.py
+└── README.md
+
 ## 🎯 O que você encontra aqui
 - Templates profissionais  
 - Modelos minimalistas  
