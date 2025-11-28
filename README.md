@@ -27,5 +27,5 @@ Uso totalmente livre.
 ###
 
 <h2>
-OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAIR
+⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
 </h2>
