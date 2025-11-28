@@ -29,3 +29,5 @@ Uso totalmente livre.
 <h2>
 ⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
 </h2>
+
+PASTA: readmes/readme.zip
